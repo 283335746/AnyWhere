@@ -1,0 +1,8 @@
+{
+  "name": "AnyWhere",
+  "app_id": "e65a946f",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
